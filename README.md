@@ -1,2 +1,2 @@
-mkdir Hotel-Website
-cd Hotel-Website
+mkdir hotel-website
+cd hotel-website
